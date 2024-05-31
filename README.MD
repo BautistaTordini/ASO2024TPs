@@ -1,4 +1,4 @@
-<!-- 
+
 # Trabajo Practico Nro 3
 
 <div style= "font-family: Arial, sans-serif, line-height: 1.6">
@@ -67,7 +67,6 @@
 <br>
 <br>
 <a href="./TP3/diagrama-flujo.jpeg"> DIAGRAMA DE FLUJO </a>
--->
 
 # TRABAJO PRACTICO N°4
 
