@@ -1,3 +1,4 @@
+<!-- 
 # Trabajo Practico Nro 3
 
 <div style= "font-family: Arial, sans-serif, line-height: 1.6">
@@ -66,3 +67,33 @@
 <br>
 <br>
 <a href="./TP3/diagrama-flujo.jpeg"> DIAGRAMA DE FLUJO </a>
+-->
+
+# TRABAJO PRACTICO N°4
+
+<h2>En este proyecto se manipulan los siguientes servicios: <code>Docker compose</code></h2>
+
+## CAPTURAS DE PANTALLA: 
+
+### IMAGEN 1
+![CAPTURA COMPOSE](screnshots/CAPTURA-COMPOSE-1.1.png)
+
+### IMAGEN 2
+![1.1](screnshots/CAPTURA-COMPOSE.png)
+
+### IMAGEN 3
+![alt text](screnshots/CAPTURA-HOLAMUNDO.png)
+
+### IMAGEN 4
+![alt text](screnshots/CAPTURA-PHPMYADMIN.png)
+
+## FINALIZACION: 
+
+### IMAGEN 5
+![alt text](screnshots/CAPTURA-CLONE_MV.png)
+
+### IMAGEN 6
+![alt text](screnshots/CAPTURA-MODIFICACION.png)
+
+### IMAGEN 7
+![alt text](screnshots/CAPTURA-FINALIZACION.png)
