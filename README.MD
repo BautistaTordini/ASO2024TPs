@@ -49,7 +49,7 @@
 <p>Al comparar los tiempo de ejecucion con un compañero, observamos diferencias pero menores, y en algunos casos nulas diferencias, esto puede variar por el hadware de cada uno.</p>
 
 <h3>c) Ejecucion del archivo <code>suma_resta.py</code></h3>
-<p><strong>OBSERVACIONES</strong></p>
+<p><strong>OBSERVACIONES<strong></p>
 <ul>
     <li>
     <p>CODIGO ORIGINAL: </p>
@@ -62,11 +62,11 @@
 
 <h3>2. B</h3>
 
-<a href="./TP3/raceccondition.c">RACE CONDITION - CORREGIDO </a>
+<a href="TP3/raceccondition.c">RACE CONDITION - CORREGIDO </a>
 <br>
 <br>
-<a href="./TP3/diagrama-flujo.jpeg"> DIAGRAMA DE FLUJO </a>
-
+### Diagrama de Flujo:
+![alt text](TP3/diagrama-flujo.jpeg)
 
 # TRABAJO PRACTICO N°4
 
@@ -75,24 +75,24 @@
 ## CAPTURAS DE PANTALLA: 
 
 ### IMAGEN 1
-![CAPTURA COMPOSE](screnshots/CAPTURA-COMPOSE-1.1.png)
+![CAPTURA COMPOSE](TP4/CAPTURA-COMPOSE-1.1.png)
 
 ### IMAGEN 2
-![1.1](screnshots/CAPTURA-COMPOSE.png)
+![1.1](TP4/CAPTURA-COMPOSE.png)
 
 ### IMAGEN 3
-![alt text](screnshots/CAPTURA-HOLAMUNDO.png)
+![alt text](TP4/CAPTURA-HOLAMUNDO.png)
 
 ### IMAGEN 4
-![alt text](screnshots/CAPTURA-PHPMYADMIN.png)
+![alt text](TP4/CAPTURA-PHPMYADMIN.png)
 
 ## FINALIZACION: 
 
 ### IMAGEN 5
-![alt text](screnshots/CAPTURA-CLONE_MV.png)
+![alt text](TP4/CAPTURA-CLONE_MV.png)
 
 ### IMAGEN 6
-![alt text](screnshots/CAPTURA-MODIFICACION.png)
+![alt text](TP4/CAPTURA-MODIFICACION.png)
 
 ### IMAGEN 7
-![alt text](screnshots/CAPTURA-FINALIZACION.png)
+![alt text](TP4/CAPTURA-FINALIZACION.png)
