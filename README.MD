@@ -49,15 +49,14 @@
 <p>Al comparar los tiempo de ejecucion con un compañero, observamos diferencias pero menores, y en algunos casos nulas diferencias, esto puede variar por el hadware de cada uno.</p>
 
 <h3>c) Ejecucion del archivo <code>suma_resta.py</code></h3>
-
-<p><strong>OBSERVACIONES</STRONG></p>
+<p><strong>OBSERVACIONES</strong></p>
 <ul>
     <li>
     <p>CODIGO ORIGINAL: </p>
-    El valor final es 0 en todas las ejecuciones y el tiempo de ejecucion en promedio de 0.018 segundos.
+    En la primera versión del código, los dos hilos trabajan con la variable "acumulador" sin coordinarse. Esto puede causar un problema llamado "carrera crítica", donde los hilos compiten por acceder y cambiar "acumulador", lo que lleva a resultados impredecibles.
     </li>
-    <li><p>CODIGO MODIFICADO:<p>
-    En cada ejecucion el valor final varía entre ejecuciones, y su tiempo de ejecucion aumenta significativamente ejecucion tras ejecucion.
+    <li><p>CODIGO MODIFICADO:</p>
+    Al eliminar los comentarios, las acciones de sumar y restar en los hilos continúan sin coordinarse, lo que agrava el problema.
     </li>
 </ul>
 
