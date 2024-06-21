@@ -1,3 +1,4 @@
+!# /bin/bash
 # GENERAR Y ADIVINAR UN NUMERO ALEATORIO DEL 1 AL 100
 
 numero=$(( RANDOM % 100 + 1 )) #genera numero aleatorio

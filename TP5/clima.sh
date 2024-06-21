@@ -1,3 +1,4 @@
+!# /bin/bash
 echo "Ingrese la localidad para obtener el clima:" # Pedir al usuario que ingrese la localidad
 read LOCALIDAD  
 
