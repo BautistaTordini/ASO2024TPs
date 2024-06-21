@@ -7,7 +7,7 @@ URL="http://api.weatherapi.com/v1/current.json?key=${API_KEY}&q=${LOCALIDAD}" # 
 
 json=$(wget -qO- "$URL") #Obtuvimos los datos json de los documentos de weatherapi.com
 
-temp_c=$(echo "$json" | jq -r '.current.temp_c') # Obtener la temperatura actual en grados desde el JSON usando jq que aclara en el documento
+temp_c=$(echo "$json" | jq -r '.current.temp_c') # Obtener la temperatura actual en grados desde el JSON usando jq que aclara en el documento.
 
 # Imprimir
 echo "Clima en ${LOCALIDAD}:"
